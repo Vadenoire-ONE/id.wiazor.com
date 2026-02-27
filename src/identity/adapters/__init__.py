@@ -1,0 +1,1 @@
+"""Identity adapters — external integrations."""
